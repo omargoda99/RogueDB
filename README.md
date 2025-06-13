@@ -51,10 +51,10 @@ LIMIT 100 OFFSET 10
 FOR UPDATE SKIP LOCKED;
 ```
 
-![Alt text](Parse%20Tree/parseTree1.png)
-![Alt text](Parse%20Tree/parseTree2.png)
-![Alt text](Parse%20Tree/parseTree3.png)
-![Alt text](Parse%20Tree/parseTree4.png)
-![Alt text](Parse%20Tree/parseTree5.png)
+![Alt text](Parse%20Tree/parseTree%201.png)
+![Alt text](Parse%20Tree/parseTree%202.png)
+![Alt text](Parse%20Tree/parseTree%203.png)
+![Alt text](Parse%20Tree/parseTree%204.png)
+![Alt text](Parse%20Tree/parseTree%205.png)
 
 
